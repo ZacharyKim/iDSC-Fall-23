@@ -13,7 +13,8 @@
 - Show how different sectors have perfomred within the past few years. This information helps job seekers find a sector that will keep them instead of laying them off
 - Project shows how the employment rate for each company and industry sector has increased/decreased based on financial performance, size of company, location and other inter-company decisions.
 
-  
+## Roadblock
+we origanlly wanted to do tech layoff rates and how a company's finances effects those rates. However after merging and cleaning the two datasets there only seven companies so we changed our project idea to overall employee rates based off of 76 randomly chosen fortune 500 companies
 
 ## Methodology
 1. searched for database
