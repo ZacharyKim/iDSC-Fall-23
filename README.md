@@ -71,7 +71,4 @@ From this data we can see that motor vehicle & parts has had the largest percent
 If only one variable changes while everything else stays the same then the employee rate doesn't change much. This means that there isn't one factor that causes a change in employment. The employee rate change is caused by a combination of all these factors combined
 
 
-
-
-
-
+<ins>Research Question: How do different factors effect employee change rates? <br>
