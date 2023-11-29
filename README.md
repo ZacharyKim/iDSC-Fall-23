@@ -67,5 +67,9 @@ From this data we can see that motor vehicle & parts has had the largest percent
 **Purpose:** Shows how employee rate changes if only one predictor variable changes
 ![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/2ca43e4b-2c13-45b4-b6f2-84db98b457d9)
 
+**Purpose:** Shows how much a companny's location, sector, or other varaibles effect employee rates
+![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/5fcd175e-9ced-4049-b95e-830b31424e74)
+
+
 **Conclusion:** <br>
 If only one variable changes while everything else stays the same then the employee rate doesn't change much. This means that there isn't one factor that causes a change in employment. The employee rate change is caused by a combination of all these factors combined
