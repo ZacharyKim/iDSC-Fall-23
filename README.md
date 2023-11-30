@@ -67,8 +67,9 @@ From this data we can see that motor vehicle & parts has had the largest percent
 **Purpose:** Shows how employee rate changes if only one predictor variable changes
 ![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/2ca43e4b-2c13-45b4-b6f2-84db98b457d9)
 
-**Purpose:** Shows how much a companny's location, sector, or other varaibles effect employee rates
-![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/46999518-6303-4680-9c75-e53fce96b76a)
+**Purpose:** Shows how much a companny's location, sector, and other factors impacts employment rates
+![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/96d0b630-442c-4b38-ba6c-b3f5dbf0e723)
+
 
 
 **Conclusion:** <br>
