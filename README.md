@@ -70,10 +70,14 @@ From this data we can see that motor vehicle & parts has had the largest percent
 **Purpose:** Shows how employee rate changes if only one predictor variable changes
 ![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/2ca43e4b-2c13-45b4-b6f2-84db98b457d9)
 
-**Purpose:** Shows how much a companny's location, sector, and other factors impacts employment rates
-![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/96d0b630-442c-4b38-ba6c-b3f5dbf0e723)
-
-
-
 **Conclusion:** <br>
 If only one variable changes while everything else stays the same then the employee rate doesn't change much. This means that there isn't one factor that causes a change in employment. The employee rate change is caused by a combination of all these factors combined
+
+<ins>Research Question: How much impact do certain factors have on employment rates? <br>
+**Purpose:** Shows what factors impact employee rates the most
+
+![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/17ab9539-461a-4788-8276-0fbe8d64404a)
+![image](https://github.com/ZacharyKim/iDSC-Fall-23/assets/43355013/2cdcf7a3-82c4-42a4-9a07-03534b0c8caf)
+
+**Conclusion:** <br> 
+The location doesn't impact the change rate much. Based on our data, we found that if a company is in the vehicle & motor parts sector, then this company will impact employee rates in a positive way. This is due to Tesla gaining more employees every year since 2020. On the other hand, if a company is in the telecommunications sector, then it has a negative impact on the employee rates. This is due to AT&T laying off employees every year since 2020.
