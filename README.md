@@ -20,6 +20,9 @@ we origanlly wanted to do tech layoff rates and how a company's finances effects
 1. searched for database
 2. cleaned the databse
 3. analyzed dataset/ made visuals
+4. exploratory data analysis
+5. interpreting meaning behid the desceiptive states
+6. conclusion
   
 
 ## Data Dictionary
